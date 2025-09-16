@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/ShootingGallery_umap.umap",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Box_9CE2CB07.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Cube10_5DB10D67.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Cube2_A09D653E.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Boolean_2DD0E335.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Box_C51E6057.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Box_84FD983D.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Cube10_2C6916CF.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/_GENERATED/valentynakadlecova/Boolean_A6944DB0.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Week3/ShootingGallery/Content/ShootingGallery.uasset"
+			]
+		}
+	]
+}
